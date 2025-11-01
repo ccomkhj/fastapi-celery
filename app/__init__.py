@@ -1,0 +1,2 @@
+# FastAPI + Celery Benchmark Application
+
